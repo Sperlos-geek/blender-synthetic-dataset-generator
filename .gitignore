@@ -12,5 +12,25 @@ examples/drawn_labels/version 1/
 examples/labels/version 1/
 examples/metadata/version 1/
 
+# Python
 __pycache__/
+*.py[codz]
 *.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
