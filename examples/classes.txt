@@ -1,0 +1,3 @@
+dassault_rafale
+eurofighter_typhoon_3d
+model

@@ -1,0 +1,39 @@
+{
+  "image_index": 12,
+  "image_file": "000012__model__portland_landing_pad_4k.jpg",
+  "model_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\models\\extracted\\model.glb",
+  "environment_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\spaces\\portland_landing_pad_4k.exr",
+  "class_id": 2,
+  "class_name": "model",
+  "bbox_normalized_blender": [
+    0.3410158157348633,
+    0.5307084918022156,
+    0.6309858560562134,
+    0.6879181861877441
+  ],
+  "yolo_bbox": [
+    0.48600083589553833,
+    0.39068666100502014,
+    0.2899700403213501,
+    0.15720969438552856
+  ],
+  "hdri_rotation_z": 4.6193342208862305,
+  "hdri_strength": 0.7125136256217957,
+  "subject_pitch_deg": 3.906386567569943,
+  "subject_roll_deg": 21.53307133633276,
+  "subject_yaw_deg": 56.492275046793125,
+  "camera_distance": 15.871160543082844,
+  "camera_distance_scale": 1.188663139605218,
+  "desired_fill": 0.48095934597403556,
+  "camera_focal_mm": 48.13195164546371,
+  "camera_azimuth_deg": 69.90286519076838,
+  "camera_elevation_deg": -15.942474501431926,
+  "camera_shift_x": 0.025695420801639557,
+  "camera_shift_y": -0.11335386335849762,
+  "sun_energy": 0.37103623151779175,
+  "sun_rotation": [
+    2.944023847579956,
+    2.133455991744995,
+    5.982474327087402
+  ]
+}

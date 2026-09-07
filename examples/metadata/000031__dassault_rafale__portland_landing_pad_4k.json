@@ -1,0 +1,39 @@
+{
+  "image_index": 31,
+  "image_file": "000031__dassault_rafale__portland_landing_pad_4k.jpg",
+  "model_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\models\\extracted\\dassault_rafale.glb",
+  "environment_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\spaces\\portland_landing_pad_4k.exr",
+  "class_id": 0,
+  "class_name": "dassault_rafale",
+  "bbox_normalized_blender": [
+    0.0,
+    0.179666668176651,
+    1.0,
+    0.7050923109054565
+  ],
+  "yolo_bbox": [
+    0.5,
+    0.5576205104589462,
+    1.0,
+    0.5254256427288055
+  ],
+  "hdri_rotation_z": 1.7051007747650146,
+  "hdri_strength": 1.024363398551941,
+  "subject_pitch_deg": 14.45847618390407,
+  "subject_roll_deg": -14.60727187798971,
+  "subject_yaw_deg": 37.76039182791017,
+  "camera_distance": 5.015973978971551,
+  "camera_distance_scale": 0.5934830466751162,
+  "desired_fill": 0.7199312971848814,
+  "camera_focal_mm": 46.427992318408634,
+  "camera_azimuth_deg": 73.0662542449896,
+  "camera_elevation_deg": 21.631432278480233,
+  "camera_shift_x": -0.11961200088262558,
+  "camera_shift_y": -0.08415524661540985,
+  "sun_energy": 1.1654657125473022,
+  "sun_rotation": [
+    2.7751944065093994,
+    0.30393141508102417,
+    0.8828690052032471
+  ]
+}

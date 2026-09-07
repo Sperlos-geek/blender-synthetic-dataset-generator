@@ -1,0 +1,39 @@
+{
+  "image_index": 45,
+  "image_file": "000045__model__hochsal_forest_4k.jpg",
+  "model_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\models\\extracted\\model.glb",
+  "environment_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\spaces\\hochsal_forest_4k.exr",
+  "class_id": 2,
+  "class_name": "model",
+  "bbox_normalized_blender": [
+    0.2942512333393097,
+    0.3014478385448456,
+    0.6877430081367493,
+    0.5238133668899536
+  ],
+  "yolo_bbox": [
+    0.4909971207380295,
+    0.5873693972826004,
+    0.3934917747974396,
+    0.22236552834510803
+  ],
+  "hdri_rotation_z": 2.1064748764038086,
+  "hdri_strength": 1.0303925275802612,
+  "subject_pitch_deg": 5.8366008467279435,
+  "subject_roll_deg": 12.60390010243551,
+  "subject_yaw_deg": 294.27734850091315,
+  "camera_distance": 14.780143352141161,
+  "camera_distance_scale": 0.8791621179955996,
+  "desired_fill": 0.5605711516691546,
+  "camera_focal_mm": 70.99418347180548,
+  "camera_azimuth_deg": 292.0022530654871,
+  "camera_elevation_deg": -8.353460434012657,
+  "camera_shift_x": 0.06642872095108032,
+  "camera_shift_y": 0.10490112006664276,
+  "sun_energy": 1.0207319259643555,
+  "sun_rotation": [
+    2.778043031692505,
+    2.920377492904663,
+    0.18192529678344727
+  ]
+}

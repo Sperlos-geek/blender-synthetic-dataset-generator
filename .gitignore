@@ -1,0 +1,16 @@
+# Blender temporary files
+*.blend1
+
+# Large 3D/environment assets
+models/**/*.glb
+spaces/*.exr
+spaces/*.hdr
+
+# Duplicate/old examples
+examples/images/version1/
+examples/drawn_labels/version 1/
+examples/labels/version 1/
+examples/metadata/version 1/
+
+__pycache__/
+*.pyc

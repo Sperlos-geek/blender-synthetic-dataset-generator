@@ -1,0 +1,39 @@
+{
+  "image_index": 2,
+  "image_file": "000002__dassault_rafale__hochsal_forest_4k.jpg",
+  "model_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\models\\extracted\\dassault_rafale.glb",
+  "environment_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\spaces\\hochsal_forest_4k.exr",
+  "class_id": 0,
+  "class_name": "dassault_rafale",
+  "bbox_normalized_blender": [
+    0.2725444436073303,
+    0.35720154643058777,
+    0.5945324301719666,
+    0.45950040221214294
+  ],
+  "yolo_bbox": [
+    0.43353843688964844,
+    0.5916490256786346,
+    0.32198798656463623,
+    0.10229885578155518
+  ],
+  "hdri_rotation_z": 3.881455659866333,
+  "hdri_strength": 1.0199593305587769,
+  "subject_pitch_deg": -4.556941713020702,
+  "subject_roll_deg": -5.784748165293227,
+  "subject_yaw_deg": 288.5805167668759,
+  "camera_distance": 26.499810066101954,
+  "camera_distance_scale": 1.673883819034539,
+  "desired_fill": 0.5482493297062471,
+  "camera_focal_mm": 67.00260529245438,
+  "camera_azimuth_deg": 214.00445075834872,
+  "camera_elevation_deg": 5.351352382830761,
+  "camera_shift_x": 0.060973238199949265,
+  "camera_shift_y": 0.09962400048971176,
+  "sun_energy": 0.3807603120803833,
+  "sun_rotation": [
+    1.436202883720398,
+    0.8320702314376831,
+    1.2628040313720703
+  ]
+}

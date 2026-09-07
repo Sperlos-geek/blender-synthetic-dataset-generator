@@ -1,0 +1,39 @@
+{
+  "image_index": 39,
+  "image_file": "000039__eurofighter_typhoon_3d__portland_landing_pad_4k.jpg",
+  "model_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\models\\extracted\\eurofighter_typhoon_3d.glb",
+  "environment_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\spaces\\portland_landing_pad_4k.exr",
+  "class_id": 1,
+  "class_name": "eurofighter_typhoon_3d",
+  "bbox_normalized_blender": [
+    0.20067241787910461,
+    0.5086288452148438,
+    0.6157590746879578,
+    0.7842391133308411
+  ],
+  "yolo_bbox": [
+    0.4082157462835312,
+    0.3535660207271576,
+    0.41508665680885315,
+    0.2756102681159973
+  ],
+  "hdri_rotation_z": 1.7051007747650146,
+  "hdri_strength": 1.024363398551941,
+  "subject_pitch_deg": 8.1779002542525,
+  "subject_roll_deg": 27.891187762461833,
+  "subject_yaw_deg": 323.6975154170431,
+  "camera_distance": 20.281034199212698,
+  "camera_distance_scale": 0.9878270483160143,
+  "desired_fill": 0.4210039609502799,
+  "camera_focal_mm": 62.654706239291166,
+  "camera_azimuth_deg": 116.41764464527616,
+  "camera_elevation_deg": -4.295359521863679,
+  "camera_shift_x": 0.09416132420301437,
+  "camera_shift_y": -0.11251464486122131,
+  "sun_energy": 0.6248610615730286,
+  "sun_rotation": [
+    0.4057760536670685,
+    1.1141527891159058,
+    3.675692558288574
+  ]
+}

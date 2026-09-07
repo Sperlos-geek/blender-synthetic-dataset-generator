@@ -1,0 +1,39 @@
+{
+  "image_index": 25,
+  "image_file": "000025__eurofighter_typhoon_3d__hochsal_forest_4k.jpg",
+  "model_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\models\\extracted\\eurofighter_typhoon_3d.glb",
+  "environment_file": "C:\\Users\\tahas\\Pictures\\link din post\\Make dataset with blender\\spaces\\hochsal_forest_4k.exr",
+  "class_id": 1,
+  "class_name": "eurofighter_typhoon_3d",
+  "bbox_normalized_blender": [
+    0.2439476102590561,
+    0.42740345001220703,
+    0.6442209482192993,
+    0.6247492432594299
+  ],
+  "yolo_bbox": [
+    0.4440842792391777,
+    0.4739236533641815,
+    0.4002733379602432,
+    0.1973457932472229
+  ],
+  "hdri_rotation_z": 5.874397277832031,
+  "hdri_strength": 0.9569273591041565,
+  "subject_pitch_deg": 7.835986764392991,
+  "subject_roll_deg": 12.862128397397072,
+  "subject_yaw_deg": 11.40956604249392,
+  "camera_distance": 19.966814399016958,
+  "camera_distance_scale": 1.7789558074271683,
+  "desired_fill": 0.6701197224655617,
+  "camera_focal_mm": 59.56836074106883,
+  "camera_azimuth_deg": 157.37337404790813,
+  "camera_elevation_deg": 1.9616456524423604,
+  "camera_shift_x": 0.06607307493686676,
+  "camera_shift_y": 0.004237275570631027,
+  "sun_energy": 0.6071480512619019,
+  "sun_rotation": [
+    1.265437364578247,
+    2.3587968349456787,
+    3.6965062618255615
+  ]
+}
